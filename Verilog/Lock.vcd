@@ -1,0 +1,308 @@
+$date
+	Mon Oct 09 20:19:09 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Lock_tb $end
+$var wire 1 ! latch $end
+$var wire 3 " count [0:2] $end
+$var wire 1 # burAlarm $end
+$var wire 1 $ alarm $end
+$var wire 1 % O2 $end
+$var wire 1 & O $end
+$var reg 4 ' A [0:3] $end
+$var reg 4 ( B [0:3] $end
+$var reg 4 ) C [0:3] $end
+$var reg 4 * D [0:3] $end
+$var reg 4 + E [0:3] $end
+$var reg 4 , F [0:3] $end
+$var reg 4 - G [0:3] $end
+$var reg 4 . H [0:3] $end
+$var reg 4 / I [0:3] $end
+$var reg 4 0 J [0:3] $end
+$var reg 1 1 fireAlarm $end
+$var reg 3 2 iniCount [0:2] $end
+$scope module L1 $end
+$var wire 4 3 A [0:3] $end
+$var wire 4 4 B [0:3] $end
+$var wire 4 5 C [0:3] $end
+$var wire 4 6 D [0:3] $end
+$var wire 4 7 E [0:3] $end
+$var wire 1 & O $end
+$var wire 1 1 fireAlarm $end
+$var wire 1 8 o5 $end
+$var wire 1 9 o4 $end
+$var wire 1 : o3 $end
+$var wire 1 ; o2 $end
+$var wire 1 < o1 $end
+$scope module c1 $end
+$var wire 4 = A [0:3] $end
+$var wire 3 > p [0:2] $end
+$var reg 1 < O $end
+$upscope $end
+$scope module c2 $end
+$var wire 4 ? A [0:3] $end
+$var wire 3 @ p [0:2] $end
+$var reg 1 ; O $end
+$upscope $end
+$scope module c3 $end
+$var wire 4 A A [0:3] $end
+$var wire 3 B p [0:2] $end
+$var reg 1 : O $end
+$upscope $end
+$scope module c4 $end
+$var wire 4 C A [0:3] $end
+$var wire 3 D p [0:2] $end
+$var reg 1 9 O $end
+$upscope $end
+$scope module c5 $end
+$var wire 4 E A [0:3] $end
+$var wire 3 F p [0:2] $end
+$var reg 1 8 O $end
+$upscope $end
+$upscope $end
+$scope module l2 $end
+$var wire 1 & O $end
+$var wire 1 1 fireAlarm $end
+$var wire 3 G iniCount [0:2] $end
+$var wire 1 % O2 $end
+$var reg 3 H count [0:2] $end
+$upscope $end
+$scope module l3 $end
+$var wire 3 I count [2:0] $end
+$var wire 1 ! latch $end
+$var reg 1 $ alarm $end
+$upscope $end
+$scope module l4 $end
+$var wire 4 J F [0:3] $end
+$var wire 4 K G [0:3] $end
+$var wire 4 L H [0:3] $end
+$var wire 4 M I [0:3] $end
+$var wire 4 N J [0:3] $end
+$var wire 1 % O2 $end
+$var wire 1 $ alarm $end
+$var wire 1 O o5 $end
+$var wire 1 P o4 $end
+$var wire 1 Q o3 $end
+$var wire 1 R o2 $end
+$var wire 1 S o1 $end
+$scope module c10 $end
+$var wire 4 T A [0:3] $end
+$var wire 1 $ alarm $end
+$var wire 3 U p [0:2] $end
+$var reg 1 O O2 $end
+$upscope $end
+$scope module c6 $end
+$var wire 4 V A [0:3] $end
+$var wire 1 $ alarm $end
+$var wire 3 W p [0:2] $end
+$var reg 1 S O2 $end
+$upscope $end
+$scope module c7 $end
+$var wire 4 X A [0:3] $end
+$var wire 1 $ alarm $end
+$var wire 3 Y p [0:2] $end
+$var reg 1 R O2 $end
+$upscope $end
+$scope module c8 $end
+$var wire 4 Z A [0:3] $end
+$var wire 1 $ alarm $end
+$var wire 3 [ p [0:2] $end
+$var reg 1 Q O2 $end
+$upscope $end
+$scope module c9 $end
+$var wire 4 \ A [0:3] $end
+$var wire 1 $ alarm $end
+$var wire 3 ] p [0:2] $end
+$var reg 1 P O2 $end
+$upscope $end
+$upscope $end
+$scope module l5 $end
+$var wire 1 ! latch $end
+$var reg 1 # burAlarm $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b100 ]
+b1000 \
+b11 [
+b10 Z
+b10 Y
+b110 X
+b1 W
+b1 V
+b101 U
+b111 T
+xS
+xR
+xQ
+xP
+xO
+b111 N
+b1000 M
+b10 L
+b110 K
+b1 J
+b0 I
+b0 H
+b0 G
+b101 F
+b1001 E
+b100 D
+b11 C
+b11 B
+b111 A
+b10 @
+b1 ?
+b1 >
+b101 =
+1<
+1;
+1:
+19
+18
+b1001 7
+b11 6
+b111 5
+b1 4
+b101 3
+b0 2
+01
+b111 0
+b1000 /
+b10 .
+b110 -
+b1 ,
+b1001 +
+b11 *
+b111 )
+b1 (
+b101 '
+1&
+x%
+0$
+0#
+b0 "
+1!
+$end
+#100
+b1 "
+b1 H
+b1 I
+0&
+08
+09
+0:
+0;
+0<
+b1010 +
+b1010 7
+b1010 E
+b100 *
+b100 6
+b100 C
+b1000 )
+b1000 5
+b1000 A
+b10 (
+b10 4
+b10 ?
+b110 '
+b110 3
+b110 =
+#200
+b10 "
+b10 H
+b10 I
+b1011 +
+b1011 7
+b1011 E
+b101 *
+b101 6
+b101 C
+b1001 )
+b1001 5
+b1001 A
+b11 (
+b11 4
+b11 ?
+b111 '
+b111 3
+b111 =
+b1 2
+b1 G
+#300
+1%
+1O
+1S
+1R
+1Q
+1P
+0$
+b0 "
+b0 H
+b0 I
+b1100 +
+b1100 7
+b1100 E
+b110 *
+b110 6
+b110 C
+b1010 )
+b1010 5
+b1010 A
+b100 (
+b100 4
+b100 ?
+b1000 '
+b1000 3
+b1000 =
+b10 2
+b10 G
+#400
+b1101 +
+b1101 7
+b1101 E
+b111 *
+b111 6
+b111 C
+b1011 )
+b1011 5
+b1011 A
+b101 (
+b101 4
+b101 ?
+b1001 '
+b1001 3
+b1001 =
+b0 2
+b0 G
+#500
+b1110 +
+b1110 7
+b1110 E
+b1000 *
+b1000 6
+b1000 C
+b1100 )
+b1100 5
+b1100 A
+b110 (
+b110 4
+b110 ?
+b1010 '
+b1010 3
+b1010 =
+#510
+1&
+11
+#1000
