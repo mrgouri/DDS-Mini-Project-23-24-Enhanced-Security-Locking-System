@@ -20,6 +20,9 @@ comparators are systematically channeled to an AND gate. Access is granted only
 when all the digits align correctly with the preset sequence, ensuring precise input
 matching.
 
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/559aa649-d1c9-4e79-beea-92b33fcf8462)
+
+
 To manage user input, a digit counter restricts the number of digits entered to
 five. Upon reaching the limit, a multiplexer resets the counter, ensuring accurate
 input tracking. Simultaneously, another counter monitors incorrect password
