@@ -110,13 +110,13 @@ transparency and enabling users to monitor access history comprehensively
 
 LOGISM CIRCUIT DIAGRAM
 
-![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/84714195-35e1-4099-b9b3-837e8a162d59)
-
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/dfda6df3-dde1-4cbe-967d-4d9f36a5b6b7)
 
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/8ad7b766-8a3e-4675-affb-489df0590333)
 
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/6f19d42b-4f7f-4107-86b3-13d12d473dc6)
+
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/84714195-35e1-4099-b9b3-837e8a162d59)
 
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/150e909a-dd72-48c9-a762-b3f3931d04bd)
 
