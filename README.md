@@ -1,6 +1,8 @@
 # DDS-Mini-Project-23-24-Enhanced-Security-Locking-System
 Enhanced Security Locking Sytem - Design of Digital Systems(DDS) course mini project
-
+## Team Details
+<details>
+  <summary>Detail</summary>
 Semester: 3rd Sem B. Tech. CSE
 
 Section: S1/S2
@@ -10,7 +12,7 @@ Section: S1/S2
 221CS117	Ch V Sushma Reddy 		  sushmach.221cs117@nitk.edu.in	      7013060863
 
 221CS125	Gouri M R			          gourimr.221cs125@nitk.edu.in	      7907526949
-
+</details>
 ABSTRACT
 
 BACKGROUND
