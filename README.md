@@ -5,19 +5,22 @@ Enhanced Security Locking Sytem - Design of Digital Systems(DDS) course mini pro
   <summary>Detail</summary>
 Semester: 3rd Sem B. Tech. CSE
 
-Section: S1/S2
+Section: S1
 
 221CS114 	B Anagha			          banagha.221cs114@nitk.edu.in	      9108095497
 
 221CS117	Ch V Sushma Reddy 		  sushmach.221cs117@nitk.edu.in	      7013060863
 
 221CS125	Gouri M R			          gourimr.221cs125@nitk.edu.in	      7907526949
+
 </details>
 
 
 ## Abstract
 <details>
   <summary>Detail</summary>
+
+ABSTRACT
 
 BACKGROUND
 
@@ -31,11 +34,24 @@ OUR UNIQUE CONTRIBUTION
 
 Our system integrates a preset master password with a five-character input limit, facilitating door unlocking upon a correct match. It also includes a login attempt counter, triggering an alarm that can be silenced by a unique password distinct from the unlocking code. Additionally, we plan to implement comprehensive record-keeping, integration with a fire alarm system for emergency door unlocking during fire incidents, display if the entered password is correct and maintain a count of incorrect passwords entered. Moreover, a burglar alarm will be activated during forced entry to enhance security.
 
+REFERENCES
+
+Morris Mano Design of Digital Systems
+
+https://www.gadgetronicx.com/digital-code-lock-circuit-without-microcontroller/
+
+https://arduinogetstarted.com/tutorials/arduino-log-data-with-timestamp-to-sd-card
+
+https://dronebotworkshop.com/sd-card-arduino/
+
+https://www.chipverify.com/verilog/verilog-tutorial
+
 </details>
 
 ## Working
 <details>
   <summary>Detail</summary>
+WORKING
 
 The security system operates through user input of a five-digit number. Initially, a
 priority encoder converts decimal numbers into 4-bit binary representations, which
@@ -91,7 +107,9 @@ transparency and enabling users to monitor access history comprehensively
 ## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
-  
+
+LOGISM CIRCUIT DIAGRAM
+
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/84714195-35e1-4099-b9b3-837e8a162d59)
 
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/dfda6df3-dde1-4cbe-967d-4d9f36a5b6b7)
@@ -109,6 +127,7 @@ transparency and enabling users to monitor access history comprehensively
 ## Verilog Code
 <details>
   <summary>Detail</summary>
+VERILOG CODE
 
 Lock.v
 
@@ -455,16 +474,6 @@ void loop() {
 }
 ```
 </details>
-REFERENCES
 
-Morris Mano Design of Digital Systems
-
-https://www.gadgetronicx.com/digital-code-lock-circuit-without-microcontroller/
-
-https://arduinogetstarted.com/tutorials/arduino-log-data-with-timestamp-to-sd-card
-
-https://dronebotworkshop.com/sd-card-arduino/
-
-https://www.chipverify.com/verilog/verilog-tutorial
 
 
