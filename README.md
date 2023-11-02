@@ -127,7 +127,7 @@ transparency and enabling users to monitor access history comprehensively
 ## Verilog Code
 <details>
   <summary>Detail</summary>
-VERILOG CODE
+
 
 Lock.v
 
