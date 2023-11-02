@@ -13,7 +13,11 @@ Section: S1/S2
 
 221CS125	Gouri M R			          gourimr.221cs125@nitk.edu.in	      7907526949
 </details>
-ABSTRACT
+
+
+## Abstract
+<details>
+  <summary>Detail</summary>
 
 BACKGROUND
 
@@ -26,6 +30,8 @@ We wish to establish a robust security system to prevent individuals' unauthoris
 OUR UNIQUE CONTRIBUTION
 
 Our system integrates a preset master password with a five-character input limit, facilitating door unlocking upon a correct match. It also includes a login attempt counter, triggering an alarm that can be silenced by a unique password distinct from the unlocking code. Additionally, we plan to implement comprehensive record-keeping, integration with a fire alarm system for emergency door unlocking during fire incidents, display if the entered password is correct and maintain a count of incorrect passwords entered. Moreover, a burglar alarm will be activated during forced entry to enhance security.
+
+</details>
 
 WORKING
 
