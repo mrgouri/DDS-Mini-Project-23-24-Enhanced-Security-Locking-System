@@ -20,7 +20,7 @@ Section: S1
 <details>
   <summary>Detail</summary>
 
-ABSTRACT
+
 
 BACKGROUND
 
@@ -51,7 +51,7 @@ https://www.chipverify.com/verilog/verilog-tutorial
 ## Working
 <details>
   <summary>Detail</summary>
-WORKING
+
 
 The security system operates through user input of a five-digit number. Initially, a
 priority encoder converts decimal numbers into 4-bit binary representations, which
@@ -108,7 +108,7 @@ transparency and enabling users to monitor access history comprehensively
 <details>
   <summary>Detail</summary>
 
-LOGISM CIRCUIT DIAGRAM
+
 
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/dfda6df3-dde1-4cbe-967d-4d9f36a5b6b7)
 
