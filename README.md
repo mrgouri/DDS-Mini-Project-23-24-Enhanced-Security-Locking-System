@@ -1,4 +1,4 @@
-# DDS-Mini-Project-23-24-Enhanced-Security-Locking-System
+# Enhanced Security Locking System
 
 ## Team Details
 <details>
