@@ -97,19 +97,17 @@ transparency and enabling users to monitor access history comprehensively
   <summary>Detail</summary>
 
 
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/ae216dff-cc85-4095-a261-3b510d3f1b1e)
 
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/92fbd8f3-8948-44cd-be5e-d925a6338c43)
 
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/b93b88a2-8fa4-4e98-b7a5-bd2621ca9d5d)
 
-![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/8ad7b766-8a3e-4675-affb-489df0590333)
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/18333471-71e9-428c-99df-e5597a765632)
 
-![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/6f19d42b-4f7f-4107-86b3-13d12d473dc6)
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/77c4137b-d5e2-4fc2-83d7-a48a199aea6b)
 
-![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/84714195-35e1-4099-b9b3-837e8a162d59)
-
-![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/150e909a-dd72-48c9-a762-b3f3931d04bd)
-
-![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/c55c8411-35cf-4661-9a3c-04378d4889b1)
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/0b5f1c03-a7ee-45de-8cff-a6cddccff2a5)
 
 </details>
 
