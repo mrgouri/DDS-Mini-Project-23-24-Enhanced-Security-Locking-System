@@ -21,18 +21,7 @@ Section: S1
   <summary>Detail</summary>
 
 
-
-BACKGROUND
-
-Password-based locking mechanisms are increasingly favoured for protecting valuable possessions. Traditional locks have seen substantial modernisation recently, driven by rapid technological advancements. This evolution has ushered in advanced digital code locks that excel in compactness, security, and reliability compared to their mechanical counterparts. As a result, digital code locks have become the preferred choice for those seeking enhanced security measures in today's technologically driven world.
-
-MOTIVATION
-
-We wish to establish a robust security system to prevent individuals' unauthorised access to restricted areas. This system is anticipated to demonstrate significant utility in various public settings, including but not limited to hotels and staff-only zones. Our security systems are engineered to effectively deter unlawful entry while upholding safety protocols to facilitate swift evacuations during emergencies.
-
-OUR UNIQUE CONTRIBUTION
-
-Our system integrates a preset master password with a five-character input limit, facilitating door unlocking upon a correct match. It also includes a login attempt counter, triggering an alarm that can be silenced by a unique password distinct from the unlocking code. Additionally, we plan to implement comprehensive record-keeping, integration with a fire alarm system for emergency door unlocking during fire incidents, display if the entered password is correct and maintain a count of incorrect passwords entered. Moreover, a burglar alarm will be activated during forced entry to enhance security.
+Password-based locking mechanisms are increasingly favoured for protecting valuable possessions. We wish to establish a robust security system to prevent individuals' unauthorised access to restricted areas. This system is anticipated to demonstrate significant utility in various public settings, including but not limited to hotels and staff-only zones. Our security systems are engineered to effectively deter unlawful entry while upholding safety protocols to facilitate swift evacuations during emergencies. Our system integrates a preset master password with a five-character input limit, facilitating door unlocking upon a correct match. It also includes a login attempt counter, triggering an alarm that can be silenced by a unique password distinct from the unlocking code. Additionally, we plan to implement comprehensive record-keeping, integration with a fire alarm system for emergency door unlocking during fire incidents, display if the entered password is correct and maintain a count of incorrect passwords entered. Moreover, a burglar alarm will be activated during forced entry to enhance security.
 
 </details>
 
