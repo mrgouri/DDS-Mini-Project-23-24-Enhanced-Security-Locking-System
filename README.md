@@ -74,11 +74,12 @@ security measures.
 
 FUNCTIONAL TABLE
 
-![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/1cbbe6da-5be7-4317-a359-fce20107dad7)
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/34fd2ec8-8a4f-42a0-ab89-bc5559623620)
 
 FLOWCHART
 
-![Flowcharrrrrrtttttttttt drawio (3)](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/504b3002-f1a0-4872-a084-3759eed3ddc1)
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/cba6f4fe-e16f-4acb-8540-984c430a8efa)
+
 
 Furthermore, the system incorporates a robust record-keeping feature.
 Timestamps of the last 10 door openings are meticulously recorded. This 
