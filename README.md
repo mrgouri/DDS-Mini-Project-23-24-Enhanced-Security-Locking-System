@@ -98,8 +98,8 @@ transparency and enabling users to monitor access history comprehensively
 
 
 
-[![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/dfda6df3-dde1-4cbe-967d-4d9f36a5b6b7)
-](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/blob/main/Snapshots/Lock.png?raw=true)
+![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/92fbd8f3-8948-44cd-be5e-d925a6338c43)
+
 
 ![image](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System/assets/127620752/8ad7b766-8a3e-4675-affb-489df0590333)
 
